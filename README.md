@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![Sidd's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddwMusic&show_icons=true)
+![Sidd's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddwMusic&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/SiddwMusic/github-readme-stats)
+
 
