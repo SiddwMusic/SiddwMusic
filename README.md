@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 <br />
 
 <div align = "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=onedark" />s
 <img src = "https://github-readme-stats.vercel.app/api?username=SiddwMusic&show_icons=true&theme=onedark" />
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=onedark" />
+
 </div>
