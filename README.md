@@ -33,8 +33,6 @@ Technical Summary and Certifications
 <br />
 
 <div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=onedark" />s
-<img src = "https://github-readme-stats.vercel.app/api?username=SiddwMusic&show_icons=true&theme=onedark" />
-
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=onedark" width = 400 />
+<img src = "https://github-readme-stats.vercel.app/api?username=SiddwMusic&show_icons=true&theme=onedark" width = 400 />
 </div>
